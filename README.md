@@ -5,7 +5,7 @@ Automatically detect your user’s time zone using JavaScript
 
 **Demo**
 
-[See an example of this library in action](http://onlineaspect.com/examples/timezone/index.html) or read a post on my blog about [how it works](http://www.onlineaspect.com/2007/06/08/auto-detect-a-time-zone-with-javascript/).
+Read a post on my blog about [how it works](http://www.onlineaspect.com/2007/06/08/auto-detect-a-time-zone-with-javascript/).
 
 **Update**
 
